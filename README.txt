@@ -6,7 +6,7 @@ Files created in this package:
 - index.html
 - style.css
 - script.js
-- assets/Albert_Raj_Resume.pdf  (copied from your uploaded CV)
+- assets/Albert_resume.pdf  (copied from your uploaded CV)
 - assets/profile.jpg (placeholder - replace with your real photo)
 
 HOW TO USE:
